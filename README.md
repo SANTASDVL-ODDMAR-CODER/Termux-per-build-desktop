@@ -63,7 +63,7 @@ curl -sLf https://raw.githubusercontent.com/Yisus7u7/termux-desktop-xfce/main/bo
 
 After that just have a cup of coffee... the script will do its job 
 
-# Usage
+# 👀 Usage
 Run:
 > Inside a proot-distro
 ```bash
@@ -74,7 +74,7 @@ vncserver -listen tcp
 vncserver
 ```
 
-# Some documentation
+# 📚 Some documentation
 If you're trying to launch an x application inside proot-distro and already did `export DISPLAY=:1` but gives you an error that says 
 `Unable to init server: Could not connect: Connection refused
 `
@@ -84,7 +84,7 @@ proot-distro login ubuntu --user (yourname) --shared-tmp
 ```
 `(yourname)` would be something like `root` or your sudo name.
 
-# Starting XFCE
+# 💯 Starting XFCE
 To start the vnc server, connect to localhost: 1 Or the port indicated by the terminal.
 Any error, question or suggestion, report it in:
 https://github.com/Yisus7u7/termux-desktop-xfce/issues
