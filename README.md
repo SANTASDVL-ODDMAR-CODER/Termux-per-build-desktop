@@ -1,13 +1,13 @@
 # Termux-per-build-desktop
 
-## termux-desktop-xfce
-Set up a beautiful xfce desktop in termux 
+## ☠️termux-desktop-xfce
+👉 Set up a beautiful xfce desktop in termux 
 
 
 # Attention!
   I'm currently working on a big update for the end of this year (or even sooner), with big improvements to the interface, themes and cool features!
 
- ## Tasks
+ ## 📚 Tasks
   - Redesign in interface themes.
   - Look for a lighter alternative to Papirus icons that follows the Material Design scheme
   - add a nice welcome screen that will help the user to get started (configuration and add additional software), you can also choose which browser you want to use by default (This will give you a more user friendly experience, similar to a GNU/Linux distribution)
@@ -17,7 +17,7 @@ Set up a beautiful xfce desktop in termux
   Thank you for your attention, you can continue with the description of the project.
 
   
-## Requirements
+## 🥵 Requirements
 
 - No root permission is required to make this work
 - an Android 7+ phone
@@ -28,7 +28,7 @@ Set up a beautiful xfce desktop in termux
 
 > NOTE: You can also use xserver-xsdl, bvnc pro or kali-Kex
 
-# What is this?
+# 🌸 What is this?
 
 This is an advanced configuration of termux x11, rich in features to be highly functional, 
 good looking, highly customizable and with very good optimization, this was inspired by @Manjaro [manjaro-site](https://manjaro.org) and from @adi1090x 's [termux-desktop](https://github.com/adi1090x/termux-desktop) , resulting in a highly useful and optimized desktop. 
@@ -36,22 +36,11 @@ good looking, highly customizable and with very good optimization, this was insp
 # Screenshots:
 
 > Current version of this project: v5.0.3
-
-![escritorio](./fotos/desktop.png)
-![escritorio](./fotos/desktop2.png)
-![escritorio](./fotos/desktop3.png)
-![escritorio](./fotos/desktop5.png)
-![escritorio](./fotos/desktop6.png)
-![escritorio](./fotos/chat_and_youtube.png)
-
-# Themes
+# 🔥 Themes
 
 Aside from the screenshots above, there are many
 more themes you can change from settings.
 There's tons of wallpapers too!
-
-![graphite](./fotos/theme1.png)
-![Colliod](./fotos/theme2.png)
 
 ### Less apps ?, I have made a configuration to run the apps of a proot distro in termux native desktop. An example:
 
@@ -64,11 +53,7 @@ firefox
 
 ### You can run proot apps without problems
 
-![firefox](./fotos/proot-firefox.png) 
-![libreoffice_load](./fotos/proot-libreoffice.png) 
-![libreoffice_app](./fotos/proot-libreoffice2.png) 
-
-# Installation
+# 👉 Installation
 
 > NOTE: This only works on Termux. Do not try it on other linux terminal emulators.
 
